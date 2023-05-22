@@ -1,4 +1,4 @@
-\c anabrolic_db;
+\c foods_dev;
 
 INSERT INTO foods (name, cal, fat, carb, fiber, protein, image) VALUES
 ('Strawberries', 32.0, 0.3, 7.68, 2.0, 0.67, 'https://www.edamam.com/food-img/00c/00c8851e401bf7975be7f73499b4b573.jpg'),

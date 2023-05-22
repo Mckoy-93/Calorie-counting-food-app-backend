@@ -1,7 +1,7 @@
 DROP DATABASE IF EXISTS;
-CREATE DATABASE anabrolic_db; 
+CREATE DATABASE food_dev; 
 
-\c anabrolic_db; 
+\c foods_dev; 
 
 CREATE TABLE foods (
     id SERIAL PRIMARY KEY,

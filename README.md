@@ -2,6 +2,8 @@
 
 Link to trello: https://trello.com/b/jZi8fCD8/markeya-mckoy-carree-full-stack-project
 
+Render backend deployment: https://markeyas-calorie-counting-app.onrender.com
+
 # Full-stack Portfolio Project
 
 This project is designed to test all of the skills you've learned so far. By the end of this project, you should have a portfolio-ready project you can share on your resume as well as with potential employers.
