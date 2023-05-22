@@ -1,7 +1,7 @@
 const express = require('express');
 const foods = express.Router();
 const { getAllFoods, getFood, createFood, deleteFood, updateFood } = require('../queries/foods');
-const validateFood = require('../validateFood.js');
+//const validateFood = require('../validateFood.js');
 
 
 foods.get('/', async (req, res) => {

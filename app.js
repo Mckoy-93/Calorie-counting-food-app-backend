@@ -6,7 +6,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const foodController = require('./controllers/foodController');
+const foodController = require('./controllers/foodControllers');
 app.use('/foods', foodController);
 
 app.get('/', (req, res) => {
